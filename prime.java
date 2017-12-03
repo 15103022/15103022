@@ -1,5 +1,4 @@
 /*1(a) Write a Java program that prompts the user for an integer and then prints out all prime numbers up to that integer.*/
-
 package prime;
 import java.util.Scanner; 
 
